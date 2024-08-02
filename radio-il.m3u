@@ -3,7 +3,7 @@
 # if one of more of these are outdated please report @ https://github.com/xbmc-il/radio-il
 
 #EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-88fm" tvg-name="radio-88fm" tvg-logo="radio-88fm.png", 88fm
-mms://s4bwm.castup.net/990310006-52.wmv?ct=IL&rg=IL&aid=31&ts=0
+https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
 
 #EXTINF:-1 tvg-id="radio-90fm-emtzah_haderech" tvg-name="radio-90fm-emtzah_haderech" tvg-logo="radio-90fm-emtzah_haderech.png", 90fm רדיו תשעים
 rtmp://fms02.mediacast.co.il/106-live playpath=radio90 swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer.rtmp-3.2.3.swf
