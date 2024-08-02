@@ -5,59 +5,59 @@
 #EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-107.5fm-haifa" tvg-name="radio-107.5fm-haifa" tvg-logo="radio-107.5fm-haifa.png", 107.5fm רדיו חיפה
 https://1075.livecdn.biz/radiohaifa
 
-#EXTINF:-1 tvg-id="radio-88fm" tvg-name="radio-88fm" tvg-logo="radio-88fm.png", 88fm
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-88fm" tvg-name="radio-88fm" tvg-logo="radio-88fm.png", 88fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3?dist=coolsite
 
-#EXTINF:-1 tvg-id="radio-81.9fm-galgalatz" tvg-name="radio-81.9fm-galgalatz" tvg-logo="radio-81.9fm-galgalatz.png", גלגל"צ
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-81.9fm-galgalatz" tvg-name="radio-81.9fm-galgalatz" tvg-logo="radio-81.9fm-galgalatz.png", גלגל"צ
 https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
 
-#EXTINF:-1 tvg-id="radio-96.6fm-galatz" tvg-name="radio-96.6fm-galatz" tvg-logo="radio-96.6fm-galatz.png", גלי צה"ל
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-96.6fm-galatz" tvg-name="radio-96.6fm-galatz" tvg-logo="radio-96.6fm-galatz.png", גלי צה"ל
 https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
 
-#EXTINF:-1 tvg-id="radio-90fm-emtzah_haderech" tvg-name="radio-90fm-emtzah_haderech" tvg-logo="radio-90fm-emtzah_haderech.png", 90fm רדיו תשעים
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-90fm-emtzah_haderech" tvg-name="radio-90fm-emtzah_haderech" tvg-logo="radio-90fm-emtzah_haderech.png", 90fm רדיו תשעים
 https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio
 
-#EXTINF:-1 tvg-id="radio-91fm-lev_hamedina" tvg-name="radio-91fm-lev_hamedina" tvg-logo="radio-91fm-lev_hamedina.png", 91fm לב המדינה
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-91fm-lev_hamedina" tvg-name="radio-91fm-lev_hamedina" tvg-logo="radio-91fm-lev_hamedina.png", 91fm לב המדינה
 https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio
 
-#EXTINF:-1 tvg-id="radio-95.8fm-darom" tvg-name="radio-95.8fm-darom" tvg-logo="radio-95.8fm-darom.png", 95.8fm רדיו דרום
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-95.8fm-darom" tvg-name="radio-95.8fm-darom" tvg-logo="radio-95.8fm-darom.png", 95.8fm רדיו דרום
 https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio
 
-#EXTINF:-1 tvg-id="radio-96fm-kol_rega" tvg-name="radio-96fm-kol_rega" tvg-logo="radio-96fm-kol_rega.png", 96fm רדיו קול רגע
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-96fm-kol_rega" tvg-name="radio-96fm-kol_rega" tvg-logo="radio-96fm-kol_rega.png", 96fm רדיו קול רגע
 https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio
 
-#EXTINF:-1 tvg-id="radio-100fm-radius" tvg-name="radio-100fm-radius" tvg-logo="radio-100fm-radius.png", 100fm רדיוס
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-100fm-radius" tvg-name="radio-100fm-radius" tvg-logo="radio-100fm-radius.png", 100fm רדיוס
 https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio
 
-#EXTINF:-1 tvg-id="radio-101fm-jerusalem" tvg-name="radio-101fm-jerusalem" tvg-logo="radio-101fm-jerusalem.png", 101fm רדיו ירושלים
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-101fm-jerusalem" tvg-name="radio-101fm-jerusalem" tvg-logo="radio-101fm-jerusalem.png", 101fm רדיו ירושלים
 https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio
 
-#EXTINF:-1 tvg-id="radio-101.5fm-darom" tvg-name="radio-101.5fm-darom" tvg-logo="radio-101.5fm-darom.png", 101.5fm רדיו דרום
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-101.5fm-darom" tvg-name="radio-101.5fm-darom" tvg-logo="radio-101.5fm-darom.png", 101.5fm רדיו דרום
 https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio
 
-#EXTINF:-1 tvg-id="radio-102fm-eilat" tvg-name="radio-102fm-eilat" tvg-logo="radio-102fm-eilat.png", 102fm קול הים האדום אילת
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-102fm-eilat" tvg-name="radio-102fm-eilat" tvg-logo="radio-102fm-eilat.png", 102fm קול הים האדום אילת
 https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio
 
-#EXTINF:-1 tvg-id="radio-102fm-tel_aviv" tvg-name="radio-102fm-tel_aviv" tvg-logo="radio-102fm-tel_aviv.png", 102fm רדיו תל אביב
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-102fm-tel_aviv" tvg-name="radio-102fm-tel_aviv" tvg-logo="radio-102fm-tel_aviv.png", 102fm רדיו תל אביב
 https://102.livecdn.biz/102fm_mp3
 
-#EXTINF:-1 tvg-id="radio-103fm" tvg-name="radio-103fm" tvg-logo="radio-103fm.png", 103fm רדיו ללא הפסקה
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-103fm" tvg-name="radio-103fm" tvg-logo="radio-103fm.png", 103fm רדיו ללא הפסקה
 https://cdn.cybercdn.live/103FM/Live/icecast.audio
 
-#EXTINF:-1 tvg-id="radio-99fm-eco" tvg-name="radio-99fm-eco" tvg-logo="radio-99fm-eco.png", eco99fm
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-99fm-eco" tvg-name="radio-99fm-eco" tvg-logo="radio-99fm-eco.png", eco99fm
 https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio
 
-#EXTINF:-1 tvg-id="radio-97.2fm-kol_hamuzika" tvg-name="radio-97.2fm-kol_hamuzika" tvg-logo="radio-97.2fm-kol_hamuzika.png", קול המוזיקה
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-97.2fm-kol_hamuzika" tvg-name="radio-97.2fm-kol_hamuzika" tvg-logo="radio-97.2fm-kol_hamuzika.png", קול המוזיקה
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3?dist=coolsite
 
-#EXTINF:-1 tvg-id="radio-95fm-reshset_beit" tvg-name="radio-95fm-reshset_beit" tvg-logo="radio-95fm-reshset_beit.png", רשת ב'
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-95fm-reshset_beit" tvg-name="radio-95fm-reshset_beit" tvg-logo="radio-95fm-reshset_beit.png", רשת ב'
 https://24363.live.streamtheworld.com/KAN_BET.mp3?dist=coolsite
 
-#EXTINF:-1 tvg-id="radio-89.7fm-reshset_gimel" tvg-name="radio-89.7fm-reshset_gimel" tvg-logo="radio-89.7fm-reshset_gimel.png", רשת ג'
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-89.7fm-reshset_gimel" tvg-name="radio-89.7fm-reshset_gimel" tvg-logo="radio-89.7fm-reshset_gimel.png", רשת ג'
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3?dist=coolsite
 
-#EXTINF:-1 tvg-id="radio-106fm-kol_hacampus" tvg-name="radio-106fm-kol_hacampus" tvg-logo="radio-106fm-kol_hacampus.png", 106fm קול הקמפוס
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-106fm-kol_hacampus" tvg-name="radio-106fm-kol_hacampus" tvg-logo="radio-106fm-kol_hacampus.png", 106fm קול הקמפוס
 http://212.29.254.129:7075
 
-#EXTINF:-1 tvg-id="radio-106.5fm-galey_israel" tvg-name="radio-106.5fm-galey_israel" tvg-logo="radio-106.5fm-galey_israel.png", 106.6fm גלי ישראל
+#EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="radio-106.5fm-galey_israel" tvg-name="radio-106.5fm-galey_israel" tvg-logo="radio-106.5fm-galey_israel.png", 106.6fm גלי ישראל
 http://live.radiodarom.co.il:1935/livegaleyisrael/galiaud1/manifest.m3u8
